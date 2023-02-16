@@ -2,7 +2,7 @@
 
 Рекомендуется смотреть через [External viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/) или [Google Collab](https://colab.research.google.com/)
 
-[Сертификаты и полезные ссылки и книги](https://github.com/ArtyKrafty/Kraftyy/tree/main/certificates)
+[Сертификаты о прохождении курсов](https://github.com/dinrar/ds-projects/tree/main/_certificates)
 __________________________________________________________________________________________________________________________
 
 
